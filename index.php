@@ -325,15 +325,29 @@
                                                                                     <div class="page-item-wrap relative">
                         <div class="page-item flex-both-center absolute"></div>
                         <a target="_blank" rel="noopener nofollow" class="page-item-each py-10 flex-both-center"
-                           href="https://www.youtube.com/channel/UCG1vfVOCWD9NSPS-t6iO5BA"
+                           href="https://apihvvk.herokuapp.com/api/gaivuto.php"
                            data-id="288936" data-type="page_item">
                                                             <img
                                     class="link-each-image"
-                                    data-src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif"
+                                    data-src="https://i.postimg.cc/8cVxcYYq/271791583-3239194389700793-316625431648326088-n.jpg"
                                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII="
-                                    alt="Youtube"
+                                    alt="API Ảnh Gái Dú Bự 🙈"
                                 />
-                                                        <span class=" item-title text-center">Youtube</span>
+                                                        <span class=" item-title text-center">API Ảnh Gái Dú Bự 🙈</span>
+                        </a>
+                    </div>
+            <div class="page-item-wrap relative">
+                        <div class="page-item flex-both-center absolute"></div>
+                        <a target="_blank" rel="noopener nofollow" class="page-item-each py-10 flex-both-center"
+                           href="https://apihvvk.herokuapp.com/api/gaiditbu.php"
+                           data-id="288936" data-type="page_item">
+                                                            <img
+                                    class="link-each-image"
+                                    data-src="https://i.postimg.cc/nrtX3931/240527720-153472986999489-1827619954791027325-n-18.jpg"
+                                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII="
+                                    alt="API Ảnh Gái Mông To 🍑"
+                                />
+                                                        <span class=" item-title text-center">API Ảnh Gái Mông To 🍑</span>
                         </a>
                     </div>
                                         </div>
