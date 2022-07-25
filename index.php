@@ -227,99 +227,99 @@
                                                                                     <div class="page-item-wrap relative">
                         <div class="page-item flex-both-center absolute"></div>
                         <a target="_blank" rel="noopener nofollow" class="page-item-each py-10 flex-both-center"
-                           href=""
+                           href="https://apihvvk.herokuapp.com/api/cadao.php"
                            data-id="288839" data-type="page_item">
                                                             <img
                                     class="link-each-image"
-                                    data-src="https://vietkhanhvn.github.io/img/mbbank.png"
+                                    data-src="https://i.postimg.cc/qRzH3516/ca-dao-tuc-ngu-viet-nam-la-gi.jpg"
                                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII="
-                                    alt="MB Bank"
+                                    alt="API Cadao 📚"
                                 />
-                                                        <span class=" item-title text-center">MB Bank: 600824915082</span>
+                                                        <span class=" item-title text-center">API Cadao 📚</span>
                         </a>
                     </div>
                                                                                     <div class="page-item-wrap relative">
                         <div class="page-item flex-both-center absolute"></div>
                         <a target="_blank" rel="noopener nofollow" class="page-item-each py-10 flex-both-center"
-                           href="https://open.spotify.com/user/31yl43gy7uv45edziq4qpyciokdu"
+                           href="https://apihvvk.herokuapp.com/api/hearing.php"
                            data-id="288834" data-type="page_item">
                                                             <img
                                     class="link-each-image"
-                                    data-src="https://cdn.bio.link/uploads/thumbnails/2022-01-13/TLiRDQ3z8IuwTz2gploaded_y0hhAZxA.gif"
+                                    data-src="https://i.postimg.cc/W4YQT7sN/tha-thinh-1.jpg"
                                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII="
-                                    alt="Spotify"
+                                    alt="API Thính 💌"
                                 />
-                                                        <span class=" item-title text-center">Spotify</span>
+                                                        <span class=" item-title text-center">API Thính 💌</span>
                         </a>
                     </div>
                                                                                     <div class="page-item-wrap relative">
                         <div class="page-item flex-both-center absolute"></div>
                         <a target="_blank" rel="noopener nofollow" class="page-item-each py-10 flex-both-center"
-                           href="https://github.com/vietkhanhvn"
+                           href="https://apihvvk.herokuapp.com/api/meme.php"
                            data-id="288837" data-type="page_item">
                                                             <img
                                     class="link-each-image"
-                                    data-src="https://cdn.bio.link/uploads/thumbnails/2022-01-13/xNoD4sMVdk7hYGNKploaded_K6Aid2OA.gif"
+                                    data-src="https://i.pinimg.com/236x/bc/ed/71/bced71e4fb8e324db89c96a6d846a421.jpg"
                                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII="
-                                    alt="Github"
+                                    alt="API Ảnh Meme 😂"
                                 />
-                                                        <span class=" item-title text-center">Github</span>
+                                                        <span class=" item-title text-center">API Ảnh Meme 😂</span>
                         </a>
                     </div>
                                                                                     <div class="page-item-wrap relative">
                         <div class="page-item flex-both-center absolute"></div>
                         <a target="_blank" rel="noopener nofollow" class="page-item-each py-10 flex-both-center"
-                           href="http://zaloapp.com/p/0824915082"
+                           href="https://apihvvk.herokuapp.com/api/truyencuoi.php"
                            data-id="288844" data-type="page_item">
                                                             <img
                                     class="link-each-image"
-                                    data-src="https://cdn.bio.link/uploads/thumbnails/2022-03-12/ZTicWzINfC3z5auyyUfccigVWxsfvfPo.png"
+                                    data-src="https://i.postimg.cc/SsWyrRWG/chuyen-cuoi-1.jpg"
                                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADMUlEQVRYha1W7ZIbIQyTWPr+z9vLBfUH/mSTuWZabhg2HNiybGxTkvDDkE0ftPn5EIBlc0sdn17/3+NHAEJn4GTjX8f8FEDd/9wNd+hvAbhS91a7z70//gnE1nADcCqW9qwnKIIWicRf+PEFCBc5n69wqcz6T/sgNwgRGMRe8RMbij/IVgjz8eyekVHgik+vEQCZq7jX5fvMc00mBH/xzqgEzK9HZ6AAvm2QzgBByNZD8VsACKucBUCYv7+7dae1sVKhDEU5Cht59jSkvCWp/Z5fX3mhKmQTLPutF9ayWf7aGIHoiqG9t11QAFTFI75lc4OAuSC18AYgQagBoAcyigvCco9mV05gUBgVQHHBOUqaKEapMKsA5fE0H49UTmzFg8AYe11U7DmIFxyHTaf1pEyxks3Cwnx8IxMK0/prAWNs62XzHQAdan2XHrgnEKZL5vez0F8SiwhcSuUrXGGHi9qWR1DcdCgcfAHguRK3inINy1j27Uy0Z8Y7gDsDqRgHAFKYWol6eYkzC/b3zmCKIPRkdChmr5BBEoWlDcJX35eEefZD8VIXgnrS0JeccHN5YYPc+YYUhhTgkq1UOls280NWLJYnjEI/37jBZcAsd7CblS3PV7Ck4nEI8Kj1A0KhDN0FsdJkEqALsvv7vMmLbwSgeb0o5oxSmGVT2pY7E14Fg3PPkm5EifSajNyYcEED0KpV7nn74FUsXqJbj2SlbEezUgEFg/4M51UUlSakNg6KtkhJkRCtUBQpML4zc5aEVNJzMPDr6g3CWlvhWsCK7sSbCT9oZi2Ag4hSLWCQGAAG8tk6A1mYcmwGzMBlT38tk0bgGTqVSM0OGmqXzdEzaq+gZ6J2FxiNS8BYwtMpKpGqxkLD0ODQLB+gZb8s7TXwBMXPOS9z5wKWZ0DBElCt6b5sWA5yE7V/D2wXuOVexuNl1txp4OMVLAJc6Y4GyKj21+FNScQkrEUzugdZ3JDKGgiL43kNi6m1TyiQZ3QX7hARaCk2HeDBlmxEA1PoD/3GyvDGgyMR19luwZ9qF3i+/biPshbqI9sCmK5kOKrzQvVbBZLykhX0u7X7cYthKduB/wHyrS/MMeo0zQAAAABJRU5ErkJggg=="
-                                    alt="Zalo"
+                                    alt="API Truyện Cười Ngắn 😂"
                                 />
-                                                        <span class=" item-title text-center">Zalo</span>
+                                                        <span class=" item-title text-center">API Truyện Cười Ngắn 😂</span>
                         </a>
                     </div>
                                                                                     <div class="page-item-wrap relative">
                         <div class="page-item flex-both-center absolute"></div>
                         <a target="_blank" rel="noopener nofollow" class="page-item-each py-10 flex-both-center"
-                           href="https://www.instagram.com/khanhsiu.cute_/"
+                           href="https://api-vip.nhatban.repl.co/game/taixiu"
                            data-id="288934" data-type="page_item">
                                                             <img
                                     class="link-each-image"
-                                    data-src="https://cdn.bio.link/uploads/thumbnails/2022-01-13/uDDSqizVcBIXkZTCploaded_3K69zPfj.gif"
+                                    data-src="https://i.postimg.cc/ZR3NmBYq/taixiu.gif"
                                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII="
-                                    alt="Instagram"
+                                    alt="API Game Tài Xỉu 😂"
                                 />
-                                                         <span class=" item-title text-center">Instagram</span>
+                                                         <span class=" item-title text-center">API Game Tài Xỉu 😂</span>
                         </a>
                     </div>
                                                                                     <div class="page-item-wrap relative">
                         <div class="page-item flex-both-center absolute"></div>
                         <a target="_blank" rel="noopener nofollow" class="page-item-each py-10 flex-both-center"
-                           href="https://www.facebook.com/khanhinfo.idol"
+                           href="https://apihvvk.herokuapp.com/api/gai.php"
                            data-id="288934" data-type="page_item">
                                                             <img
                                     class="link-each-image"
-                                    data-src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif"
+                                    data-src="https://i.postimg.cc/SNmDKzr1/hinh-anh-co-gai-cute-1-819x1024.jpg"
                                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII="
-                                    alt="Facebook"
+                                    alt="API Ảnh Gái Xinh ❤️"
                                 />
-                                                        <span class=" item-title text-center">Facebook</span>
+                                                        <span class=" item-title text-center">API Ảnh Gái Xinh ❤️</span>
                         </a>
                     </div>
                                                                                     <div class="page-item-wrap relative">
                         <div class="page-item flex-both-center absolute"></div>
                         <a target="_blank" rel="noopener nofollow" class="page-item-each py-10 flex-both-center"
-                           href="https://www.tiktok.com/@khanhinfo.idol"
+                           href="https://apihvvk.herokuapp.com/api/cosplay.php"
                            data-id="288935" data-type="page_item">
                                                             <img
                                     class="link-each-image"
-                                    data-src="https://cdn.bio.link/uploads/thumbnails/2022-01-13/Jvp1NshoYc5D7IRkploaded_vzNfp0RH.gif"
+                                    data-src="https://i.postimg.cc/Y96n0Nm0/Cosplay-SINESTREA-Hinh-Nen-Lien-Quan-Mobile-Gameviet.jpg"
                                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII="
-                                    alt="Tiktok"
+                                    alt="API Ảnh Cosplay 💓"
                                 />
-                                                        <span class=" item-title text-center">Tiktok</span>
+                                                        <span class=" item-title text-center">API Ảnh Cosplay 💓</span>
                         </a>
                     </div>
                                                                                     <div class="page-item-wrap relative">
