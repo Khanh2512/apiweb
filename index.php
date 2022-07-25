@@ -9,12 +9,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WEB API BOT - TuanDeepTry</title>
     <meta content='Web API Của Tuấn DeepTry !' property='og:title' />
-    <meta content='https://tuandz2250api.herokuapp.com/' property='og:url' />
+    <meta content='https://api-hvvk.herokuapp.com/' property='og:url' />
     <meta content='Web Của TuanDeepTry !' property='og:site_name' />
     <meta content='https://i.imgur.com/U5btS0I.jpeg' property='og:image' />
     <meta content='website' property='og:type' />
     <link rel="dns-prefetch" href="//github" >
-    <link rel="dns-prefetch" href="https://tuandz2250api.herokuapp.com/" >
+    <link rel="dns-prefetch" href="https://api-hvvk.herokuapp.com/" >
     <link rel="dns-prefetch" href="//cdn.jsdelivr.net" >
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ngocminhvn/all/snow.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.min.css"/>
@@ -249,15 +249,15 @@
                     }
                 }
             }, shortcut.add("Ctrl+U", function() {
-                top.location.href = "https://tuandz2250api.herokuapp.com"
+                top.location.href = "https://api-hvvk.herokuapp.com"
             }), shortcut.add("F12", function() {
-                top.location.href = "https://tuandz2250api.herokuapp.com"
+                top.location.href = "https://api-hvvk.herokuapp.com"
             }), shortcut.add("Ctrl+Shift+I", function() {
-                top.location.href = "https://tuandz2250api.herokuapp.com"
+                top.location.href = "https://api-hvvk.herokuapp.com"
             }), shortcut.add("Ctrl+S", function() {
-                top.location.href = "https://tuandz2250api.herokuapp.com"
+                top.location.href = "https://api-hvvk.herokuapp.com"
             }), shortcut.add("Ctrl+Shift+C", function() {
-                top.location.href = "https://tuandz2250api.herokuapp.com"
+                top.location.href = "https://api-hvvk.herokuapp.com"
             });
             //]]>
         </script>
