@@ -9,12 +9,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WEB API BOT - TuanDeepTry</title>
     <meta content='Web API Của Tuấn DeepTry !' property='og:title' />
-    <meta content='https://api-hvvk.herokuapp.com/' property='og:url' />
+    <meta content='https://apihvvk.herokuapp.com/' property='og:url' />
     <meta content='Web Của TuanDeepTry !' property='og:site_name' />
     <meta content='https://i.imgur.com/U5btS0I.jpeg' property='og:image' />
     <meta content='website' property='og:type' />
     <link rel="dns-prefetch" href="//github" >
-    <link rel="dns-prefetch" href="https://api-hvvk.herokuapp.com/" >
+    <link rel="dns-prefetch" href="https://apihvvk.herokuapp.com/" >
     <link rel="dns-prefetch" href="//cdn.jsdelivr.net" >
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ngocminhvn/all/snow.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.min.css"/>
@@ -249,15 +249,15 @@
                     }
                 }
             }, shortcut.add("Ctrl+U", function() {
-                top.location.href = "https://api-hvvk.herokuapp.com"
+                top.location.href = "https://apihvvk.herokuapp.com/"
             }), shortcut.add("F12", function() {
-                top.location.href = "https://api-hvvk.herokuapp.com"
+                top.location.href = "https://apihvvk.herokuapp.com/"
             }), shortcut.add("Ctrl+Shift+I", function() {
-                top.location.href = "https://api-hvvk.herokuapp.com"
+                top.location.href = "https://apihvvk.herokuapp.com/"
             }), shortcut.add("Ctrl+S", function() {
-                top.location.href = "https://api-hvvk.herokuapp.com"
+                top.location.href = "https://apihvvk.herokuapp.com/"
             }), shortcut.add("Ctrl+Shift+C", function() {
-                top.location.href = "https://api-hvvk.herokuapp.com"
+                top.location.href = "https://apihvvk.herokuapp.com/"
             });
             //]]>
         </script>
@@ -371,7 +371,7 @@
                                         <img src="https://i.postimg.cc/qRzH3516/ca-dao-tuc-ngu-viet-nam-la-gi.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Cadao 📚</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/cadao.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/cadao.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -383,7 +383,7 @@
                                         <img src="https://i.postimg.cc/W4YQT7sN/tha-thinh-1.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Thính 💌</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/hearing.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/hearing.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -395,7 +395,7 @@
                                         <img src="https://i.pinimg.com/236x/bc/ed/71/bced71e4fb8e324db89c96a6d846a421.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Meme 😂</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/meme.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/meme.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div> 
@@ -407,7 +407,7 @@
                                         <img src="https://i.postimg.cc/SsWyrRWG/chuyen-cuoi-1.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Truyện Cười Ngắn 😂</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/truyencuoi.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/truyencuoi.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -432,7 +432,7 @@
                                         <img src="https://i.postimg.cc/SNmDKzr1/hinh-anh-co-gai-cute-1-819x1024.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Gái Xinh ❤️</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/gai.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/gai.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -443,7 +443,7 @@
                                         <img src="https://i.postimg.cc/Y96n0Nm0/Cosplay-SINESTREA-Hinh-Nen-Lien-Quan-Mobile-Gameviet.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Cosplay 💓</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/cosplay.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/cosplay.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -454,7 +454,7 @@
                                         <img src="https://i.postimg.cc/8cVxcYYq/271791583-3239194389700793-316625431648326088-n.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Gái Dú Bự 🙈</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/gaivuto.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/gaivuto.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -466,7 +466,7 @@
                                         <img src="https://i.postimg.cc/nrtX3931/240527720-153472986999489-1827619954791027325-n-18.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Gái Mông To 🍑</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/gaiditbu.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/gaiditbu.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -478,7 +478,7 @@
                                         <img src="https://i.postimg.cc/WbVjPmKd/269499943-1107188526760116-4609825776308771360-n.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Gái Sexy 💛</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/gaisexy.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/gaisexy.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -489,7 +489,7 @@
                                         <img src="https://i.postimg.cc/Qd8FPsJz/868h.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Nude 💞</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/nude.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/nude.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -501,7 +501,7 @@
                                         <img src="https://i.postimg.cc/7L0KR3hQ/photo-1-16403217933041086621537.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Video Gái Xinh Tiktok 🍓</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/gaixinhtiktok.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/gaixinhtiktok.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div> 
@@ -513,7 +513,7 @@
                                         <img src="https://i.postimg.cc/yN2RtWnT/Bo-Anh-Nude-Girl-Xinh-Dit-Em-Gai-Vu-Bu-1.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Video Sex 💜</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/videosex.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/videosex.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>   
@@ -525,7 +525,7 @@
                                         <img src="https://i.postimg.cc/N01tYTKr/006amxlyly1fmpz7md3iqj31jk2bc7wk-1537769329620518488446.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Trai 💕</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/trai.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/trai.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>        
@@ -537,7 +537,7 @@
                                         <img src="https://i.postimg.cc/Y2D9kd7V/QKQYUsx.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh 6 Múi 🎀</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/saumui.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/saumui.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -549,7 +549,7 @@
                                         <img src="https://i.postimg.cc/g0Bn37S3/Hf8e286381f7a46afb6e24d70d1948ad1l.webp" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Anime 💘</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/anime.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/anime.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -561,7 +561,7 @@
                                         <img src="https://i.postimg.cc/XqMYmYyW/2-e1587889792216.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Couple 💕</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/couple.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/couple.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -574,7 +574,7 @@
                                         <img src="https://i.postimg.cc/XYywzsp3/02d4453f3eb0a76a87148433395b3ec3.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Hôn 😘</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/kiss.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/kiss.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>  
@@ -586,7 +586,7 @@
                                         <img src="https://i.postimg.cc/4Nt9Mnnc/ezgif-com-624b1ca218.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Ôm 😍</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/hug.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/hug.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div> 
@@ -598,7 +598,7 @@
                                         <img src="https://i.postimg.cc/CxDL1R94/tumblr-peb6js73li1sk6fb9-1280.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Xoa Đầu 😻</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/xoa.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/xoa.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -610,7 +610,7 @@
                                         <img src="https://img-cdn.2game.vn/pictures/images/2016/5/30/onehit_30_5_2016_1.GIF" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Đấm 👊</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/punch.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/punch.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>  
@@ -622,7 +622,7 @@
                                         <img src="https://i.postimg.cc/Mc7rWvFv/12334wrwd534wrdf-1.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Tát 🖐️</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/slap.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/slap.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -634,7 +634,7 @@
                                         <img src="http://kenh14cdn.com/thumb_w/660/2018/7/19/gif-2-15319836727292050186373.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Đá 🍄</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/spar.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/spar.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -646,7 +646,7 @@
                                         <img src="https://i.postimg.cc/661xKxrd/240527720-153472986999489-1827619954791027325-n-12.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Hentai 💚</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/hentai.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/hentai.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>    
@@ -658,7 +658,7 @@
                                         <img src="https://i.postimg.cc/m2J2g7Vt/659-fucked.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Địt Nhau 🌚</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/ditnhau.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/ditnhau.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -670,7 +670,7 @@
                                         <img src="https://i.postimg.cc/RCTC5NWn/dkUlEBe.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Bóp Mông 🍑</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/bopmong.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/bopmong.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -682,7 +682,7 @@
                                         <img src="https://i.postimg.cc/9XLJrH0N/detail.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Bóp Vú 🤧</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/bopvu.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/bopvu.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -694,7 +694,7 @@
                                         <img src="https://i.postimg.cc/J4fk6ptQ/blowjob-madoka-higuchi-najar-001.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Bú Cu 🤤</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/bucu.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/bucu.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -706,7 +706,7 @@
                                         <img src="https://i.postimg.cc/FHFVgP6n/tumblr-mxten51-GCl1smtpyco1-500.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Bú Lồn 💋</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/bulon.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/bulon.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -718,7 +718,7 @@
                                         <img src="https://i.postimg.cc/gJQP3SHC/izxeqykfmf081.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Chơi Gay 🌈</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/choigay.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/choigay.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -730,7 +730,7 @@
                                         <img src="https://i.postimg.cc/SNgSTrdv/detail-1.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">API Ảnh Chơi Les 💦</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apituandz1407.herokuapp.com/api/choiles.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://apihvvk.herokuapp.com/api/choiles.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
