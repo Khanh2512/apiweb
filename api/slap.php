@@ -23,12 +23,12 @@ $tuandz = array_rand($url);
 $tuandeeptry = $url [$tuandz];
 $slap = array(
 "url" => $tuandeeptry,
-"author" => "TuanDeepTry",
+"author" => "VietKhanhApi",
 "success" => "true",
 );
 $rdimg = json_encode($slap);
 
-$i = ['\/v\/','\/','TuanDeepTry'];
-$t = ['/v/','/','TuanDeepTry'];
+$i = ['\/v\/','\/','VietKhanhApi'];
+$t = ['/v/','/','VietKhanhApi'];
 $j = str_replace($i, $t, $rdimg);
 echo $j;
