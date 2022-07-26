@@ -16,12 +16,12 @@ $tuandz = array_rand($url);
 $tuandeeptry = $url [$tuandz];
 $bucu = array(
 "url" => $tuandeeptry,
-"author" => "TuanDeepTry",
+"author" => "VietKhanhApi",
 "success" => "true",
 );
 $rdimg = json_encode($bucu);
 
-$i = ['\/v\/','\/','TuanDeepTry'];
-$t = ['/v/','/','TuanDeepTry'];
+$i = ['\/v\/','\/','VietKhanhApi'];
+$t = ['/v/','/','VietKhanhApi'];
 $j = str_replace($i, $t, $rdimg);
 echo $j;
