@@ -280,12 +280,12 @@ $tuandz = array_rand($word);
 $tuandeeptry = $word [$tuandz];
 $cadao = array(
 "data" => $tuandeeptry,
-"author" => "Tuấn DeepTry",
+"author" => "VietKhanhApi",
 "success" => "true",
 );
 $rdimg = json_encode($cadao , JSON_UNESCAPED_UNICODE);
 
-$i = ['\/v\/','\/','Tuấn DeepTry'];
-$t = ['/v/','/','Tuấn DeepTry'];
+$i = ['\/v\/','\/','VietKhanhApi'];
+$t = ['/v/','/','VietKhanhApi'];
 $j = str_replace($i, $t, $rdimg);
 echo $j;
