@@ -672,6 +672,20 @@
                                                         <span class=" item-title text-center">API Ảnh Lê Bống 😝</span>
                         </a>
                     </div>
+            <div class="page-item-wrap relative">
+                        <div class="page-item flex-both-center absolute"></div>
+                        <a target="_blank" rel="noopener nofollow" class="page-item-each py-10 flex-both-center"
+                           href="https://apihvvk.herokuapp.com/api/khanhhuyen.php"
+                           data-id="288936" data-type="page_item">
+                                                            <img
+                                    class="link-each-image"
+                                    data-src="https://i.imgur.com/GWSfqIL.jpg"
+                                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII="
+                                    alt="API Ảnh Khánh Huyền ❤"
+                                />
+                                                        <span class=" item-title text-center">API Ảnh Khánh Huyền ❤</span>
+                        </a>
+                    </div>
                                         </div>
 
             </div>
