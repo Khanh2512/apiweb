@@ -528,12 +528,12 @@ $tuandz = array_rand($url);
 $tuandeeptry = $url [$tuandz];
 $gaixinh = array(
 "data" => $tuandeeptry,
-"author" => "TuanDeepTry",
+"author" => "VietKhanhApi",
 "success" => "true",
 );
 $rdimg = json_encode($gaixinh , JSON_UNESCAPED_UNICODE);
 
-$i = ['\/v\/','\/','TuanDeepTry'];
-$t = ['/v/','/','TuanDeepTry'];
+$i = ['\/v\/','\/','VietKhanhApi'];
+$t = ['/v/','/','VietKhanhApi'];
 $j = str_replace($i, $t, $rdimg);
 echo $j;
